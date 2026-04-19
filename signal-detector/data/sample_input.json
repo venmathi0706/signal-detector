@@ -1,0 +1,107 @@
+[
+  {
+    "title": "HackerRank is way too expensive for what it offers",
+    "body": "We've been using HackerRank for the past year and honestly the pricing model is insane. For a small startup it's overpriced and the recruiter bottleneck is real — it takes weeks to hear back from candidates because the workflow is so clunky. Switching to something else ASAP.",
+    "url": "https://reddit.com/r/recruitinghell/sample_post_1",
+    "source": "forum_post",
+    "subreddit": "recruitinghell",
+    "score": 342,
+    "created_utc": 1712000000
+  },
+  {
+    "title": "HireVue is dehumanizing and has serious bias problems",
+    "body": "Just had to do a HireVue video interview. It's awful. The AI scoring is clearly biased — favors certain accents and backgrounds. Not inclusive at all. The whole experience was stressful and anxiety inducing. No feedback given after. Completely ghosted by the recruiter after submitting. Terrible experience.",
+    "url": "https://reddit.com/r/cscareerquestions/sample_post_2",
+    "source": "forum_post",
+    "subreddit": "cscareerquestions",
+    "score": 891,
+    "created_utc": 1712100000
+  },
+  {
+    "title": "Codility tests are broken and outdated",
+    "body": "The Codility platform keeps crashing mid-test. There are obvious bugs in the code editor. The questions are irrelevant and outdated — nothing like actual work. This platform is a waste of time for both candidates and recruiters. I've heard multiple companies are looking for an alternative.",
+    "url": "https://reddit.com/r/ExperiencedDevs/sample_post_3",
+    "source": "forum_post",
+    "subreddit": "ExperiencedDevs",
+    "score": 215,
+    "created_utc": 1712200000
+  },
+  {
+    "title": "Trustpilot review: HackerRank",
+    "body": "1 star. HackerRank is expensive and not worth the money. The candidate experience is terrible — questions are outdated, the interface is buggy and the support is awful. We cancelled after 6 months and switched to a different platform. Would not recommend to any recruiter.",
+    "url": "https://www.trustpilot.com/review/www.hackerrank.com",
+    "source": "public_review",
+    "subreddit": "",
+    "score": 0,
+    "created_utc": 1712300000,
+    "platform": "trustpilot"
+  },
+  {
+    "title": "SiteJabber review: HireVue",
+    "body": "HireVue is the worst interview platform I have ever used. The video interview process is invasive and biased. Recording without consent feels like a privacy violation. The AI assessment is discriminatory and not inclusive. Slow process, no feedback, ghosted completely. Terrible experience for candidates.",
+    "url": "https://www.sitejabber.com/reviews/hirevue.com",
+    "source": "public_review",
+    "subreddit": "",
+    "score": 0,
+    "created_utc": 1712400000,
+    "platform": "sitejabber"
+  },
+  {
+    "title": "Why HackerRank is failing developers — a deep dive",
+    "body": "HackerRank has become a recruiter bottleneck rather than a hiring solution. The platform is expensive, the questions are biased toward a certain style of coding, and the slow process means top candidates drop out before interviews even begin. Companies are switching away in large numbers.",
+    "url": "https://dev.to/sample/why-hackerrank-is-failing-developers",
+    "source": "blog_comment",
+    "subreddit": "",
+    "score": 145,
+    "created_utc": 1712500000,
+    "platform": "devto"
+  },
+  {
+    "title": "Comment on: Is HireVue ethical?",
+    "body": "I completely agree. HireVue's surveillance-style recording is a privacy concern nobody talks about. It's invasive, the AI is biased, and the whole process feels dehumanizing. Candidates are treated like data points not people. The worst part is there is no feedback — just ghosted after spending an hour on their broken platform.",
+    "url": "https://dev.to/sample/is-hirevue-ethical",
+    "source": "blog_comment",
+    "subreddit": "",
+    "score": 89,
+    "created_utc": 1712600000,
+    "platform": "devto_comment"
+  },
+  {
+    "title": "HackerRank expensive problems complaints — search results",
+    "body": "Search results show widespread complaints about HackerRank being overpriced for small teams. Multiple reviews cite slow process, recruiter bottleneck issues, and poor candidate experience as major pain points. Many companies report switching away from HackerRank due to high cost and buggy interface.",
+    "url": "https://hn.algolia.com/search?q=HackerRank+expensive",
+    "source": "search_snippet",
+    "subreddit": "",
+    "score": 0,
+    "created_utc": 1712700000,
+    "platform": "hackernews_search"
+  },
+  {
+    "title": "HireVue bias unfair — DuckDuckGo results",
+    "body": "Multiple sources report HireVue's AI interview system shows bias against non-native English speakers. The discriminatory scoring system has faced criticism for being unfair and not inclusive. Privacy concerns around recording without consent have led several EU companies to avoid the platform entirely.",
+    "url": "https://api.duckduckgo.com/?q=HireVue+bias+unfair",
+    "source": "search_snippet",
+    "subreddit": "",
+    "score": 0,
+    "created_utc": 1712800000,
+    "platform": "duckduckgo"
+  },
+  {
+    "title": "Switched away from HackerRank due to poor candidate experience",
+    "body": "After 18 months with HackerRank we finally cancelled. Candidates kept complaining about the frustrating interface and poor ux. The technical issues were a constant headache. Support was unresponsive. We are now evaluating alternatives that are not so costly and actually candidate friendly.",
+    "url": "https://blog.example-company.com/switching-from-hackerrank",
+    "source": "forum_post",
+    "subreddit": "",
+    "score": 0,
+    "created_utc": 1712900000
+  },
+  {
+    "title": "Workday ATS is the worst — bottleneck for everyone",
+    "body": "Workday is clunky, buggy, and a recruiter bottleneck. It takes forever to process applications. The interface is bad and not candidate friendly. Every recruiter I know hates it. High cost for absolutely terrible ROI.",
+    "url": "https://reddit.com/r/recruitinghell/sample_post_6",
+    "source": "forum_post",
+    "subreddit": "recruitinghell",
+    "score": 567,
+    "created_utc": 1713000000
+  }
+]
