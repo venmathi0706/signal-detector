@@ -1,0 +1,86 @@
+service: signal-detector
+
+frameworkVersion: ">=3.0.0"
+
+provider:
+  name: aws
+  runtime: python3.11
+  region: us-east-1
+  # No cloud deployment needed — run locally via `serverless invoke local`
+
+plugins:
+  - serverless-offline          # Local HTTP server: `serverless offline`
+
+custom:
+  serverless-offline:
+    httpPort: 8000
+    host: 0.0.0.0
+
+functions:
+
+  # ── Main pipeline: run full signal detection ──────────────────────────────
+  run:
+    handler: handler.run
+    timeout: 300
+    description: "Run the full competitor grievance signal detection pipeline"
+    events:
+      - http:
+          path: run
+          method: GET
+          cors: true
+    environment:
+      USE_SAMPLE: "true"
+      REDDIT_LIMIT: "10"
+
+  # ── Query stored signals ──────────────────────────────────────────────────
+  getSignals:
+    handler: handler.get_signals
+    timeout: 30
+    description: "Query stored signals from SQLite"
+    events:
+      - http:
+          path: /signals
+          method: get
+          cors: true
+
+  # ── Get signals by competitor ─────────────────────────────────────────────
+  getSignalsByCompany:
+    handler: handler.get_signals_by_company
+    timeout: 30
+    description: "Get signals for a specific competitor"
+    events:
+      - http:
+          path: /signals/{company}
+          method: get
+          cors: true
+
+  # ── Stats endpoint ────────────────────────────────────────────────────────
+  getStats:
+    handler: handler.get_stats
+    timeout: 30
+    description: "Return summary statistics"
+    events:
+      - http:
+          path: /stats
+          method: get
+          cors: true
+
+  # ── Health check ──────────────────────────────────────────────────────────
+  health:
+    handler: handler.health
+    timeout: 10
+    description: "Health check"
+    events:
+      - http:
+          path: /health
+          method: get
+          cors: true
+
+  # ── CLI-style direct invoke (no HTTP) ────────────────────────────────────
+  runSampleOnly:
+   handler: handler.run_sample_only
+   timeout: 60
+   events:
+     - http:
+        path: run/sample
+        method: GET

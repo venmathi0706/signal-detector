@@ -1,0 +1,1596 @@
+[
+  {
+    "company": "greenhouse",
+    "all_competitors_mentioned": [
+      "greenhouse",
+      "workday"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/1rvacml/i_have_4_yoe_and_been_underemployed_for_over_a/",
+    "source": "public_review",
+    "subreddit": "cscareerquestions",
+    "title": "I have 4 YOE and been un(der)employed for over a year. Here is everything I’ve experienced during my job search (tips, tricks, and what to expect)",
+    "matched_keywords": [
+      "avoid",
+      "waste",
+      "awful",
+      "hate",
+      "worst",
+      "stressful",
+      "broken",
+      "annoying",
+      "time consuming"
+    ],
+    "pain_points": {
+      "speed": [
+        "time consuming"
+      ],
+      "technical_issues": [
+        "broken"
+      ],
+      "candidate_experience": [
+        "awful",
+        "stressful",
+        "annoying"
+      ]
+    },
+    "signal_score": 95,
+    "signal_strength": "high",
+    "detected_at": "2026-04-22T14:24:40.429968+00:00",
+    "reason": "Negative feedback detected about greenhouse, workday — issues: speed, technical_issues, candidate_experience"
+  },
+  {
+    "company": "workday",
+    "all_competitors_mentioned": [
+      "workday"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://reddit.com/r/recruitinghell/sample_post_6",
+    "source": "forum_post",
+    "subreddit": "recruitinghell",
+    "title": "Workday ATS is the worst â€” bottleneck for everyone",
+    "matched_keywords": [
+      "bad",
+      "bottleneck",
+      "high cost",
+      "clunky",
+      "bug",
+      "hate",
+      "buggy",
+      "worst",
+      "terrible",
+      "not candidate friendly",
+      "recruiter bottleneck",
+      "takes forever"
+    ],
+    "pain_points": {
+      "cost": [
+        "high cost"
+      ],
+      "speed": [
+        "takes forever",
+        "bottleneck"
+      ],
+      "recruiter_experience": [
+        "recruiter bottleneck"
+      ],
+      "technical_issues": [
+        "bug",
+        "buggy",
+        "clunky"
+      ],
+      "candidate_experience": [
+        "not candidate friendly"
+      ]
+    },
+    "signal_score": 90,
+    "signal_strength": "high",
+    "detected_at": "2026-04-22T14:24:40.458986+00:00",
+    "reason": "Negative feedback detected about workday — issues: cost, speed, recruiter_experience, technical_issues, candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank",
+      "hirevue",
+      "codility",
+      "workday"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/1brklmk/3_yoe_dev_sharing_my_recent_job_search_experience/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "3 YOE Dev Sharing my Recent Job Search Experience &amp; Advice for Other Mid-levels",
+    "matched_keywords": [
+      "avoid",
+      "doesn't work",
+      "slow",
+      "poor",
+      "useless"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow"
+      ],
+      "technical_issues": [
+        "doesn't work"
+      ]
+    },
+    "signal_score": 81,
+    "signal_strength": "high",
+    "detected_at": "2026-04-22T14:24:40.110039+00:00",
+    "reason": "Negative feedback detected about hackerrank, hirevue, codility, workday — issues: speed, technical_issues"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank",
+      "greenhouse",
+      "workday",
+      "icims"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/16izyiq/my_internship_search_so_far_250_applications_56/",
+    "source": "public_review",
+    "subreddit": "cscareerquestions",
+    "title": "My internship search so far: 250 applications, 56 rejections, and 3 interviews",
+    "matched_keywords": [
+      "avoid",
+      "ghosted",
+      "slow",
+      "tracking"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow"
+      ],
+      "recruiter_experience": [
+        "ghosted"
+      ],
+      "privacy": [
+        "tracking"
+      ]
+    },
+    "signal_score": 81,
+    "signal_strength": "high",
+    "detected_at": "2026-04-22T14:24:40.385735+00:00",
+    "reason": "Negative feedback detected about hackerrank, greenhouse, workday, icims — issues: speed, recruiter_experience, privacy"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://dev.to/sample/is-hirevue-ethical",
+    "source": "blog_comment",
+    "subreddit": "",
+    "title": "Comment on: Is HireVue ethical?",
+    "matched_keywords": [
+      "bias",
+      "privacy concern",
+      "no feedback",
+      "biased",
+      "worst",
+      "broken",
+      "surveillance",
+      "dehumanizing",
+      "ghosted",
+      "invasive"
+    ],
+    "pain_points": {
+      "bias": [
+        "bias",
+        "biased"
+      ],
+      "recruiter_experience": [
+        "no feedback",
+        "ghosted"
+      ],
+      "technical_issues": [
+        "broken"
+      ],
+      "candidate_experience": [
+        "dehumanizing"
+      ],
+      "privacy": [
+        "privacy concern",
+        "surveillance",
+        "invasive"
+      ]
+    },
+    "signal_score": 81,
+    "signal_strength": "high",
+    "detected_at": "2026-04-22T14:24:40.458000+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: bias, recruiter_experience, technical_issues, candidate_experience, privacy"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://reddit.com/r/recruitinghell/sample_post_1",
+    "source": "forum_post",
+    "subreddit": "recruitinghell",
+    "title": "HackerRank is way too expensive for what it offers",
+    "matched_keywords": [
+      "bottleneck",
+      "clunky",
+      "expensive",
+      "weeks to hear back",
+      "pricing model",
+      "overpriced",
+      "recruiter bottleneck"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive",
+        "overpriced",
+        "pricing model"
+      ],
+      "speed": [
+        "bottleneck",
+        "weeks to hear back"
+      ],
+      "recruiter_experience": [
+        "recruiter bottleneck"
+      ],
+      "technical_issues": [
+        "clunky"
+      ]
+    },
+    "signal_score": 77,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.457483+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost, speed, recruiter_experience, technical_issues"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://dev.to/sample/why-hackerrank-is-failing-developers",
+    "source": "blog_comment",
+    "subreddit": "",
+    "title": "Why HackerRank is failing developers â€” a deep dive",
+    "matched_keywords": [
+      "bias",
+      "bottleneck",
+      "expensive",
+      "biased",
+      "slow process",
+      "slow",
+      "recruiter bottleneck"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive"
+      ],
+      "bias": [
+        "bias",
+        "biased"
+      ],
+      "speed": [
+        "slow process",
+        "slow",
+        "bottleneck"
+      ],
+      "recruiter_experience": [
+        "recruiter bottleneck"
+      ]
+    },
+    "signal_score": 76,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.458000+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost, bias, speed, recruiter_experience"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/interviews/comments/1lfz6zf/30_most_common_questions_i_get_asked_an_interview/",
+    "source": "reddit",
+    "subreddit": "interviews",
+    "title": "30 Most Common Questions I get asked an Interview Coach",
+    "matched_keywords": [
+      "bad",
+      "avoid",
+      "waste",
+      "awful",
+      "hate",
+      "worst",
+      "stressful",
+      "slow",
+      "broken",
+      "time consuming"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow",
+        "time consuming"
+      ],
+      "technical_issues": [
+        "broken"
+      ],
+      "candidate_experience": [
+        "awful",
+        "stressful"
+      ]
+    },
+    "signal_score": 74,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.013475+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: speed, technical_issues, candidate_experience"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.sitejabber.com/reviews/hirevue.com",
+    "source": "public_review",
+    "subreddit": "",
+    "title": "SiteJabber review: HireVue",
+    "matched_keywords": [
+      "bias",
+      "no feedback",
+      "biased",
+      "privacy violation",
+      "worst",
+      "slow process",
+      "slow",
+      "recording without consent",
+      "terrible experience",
+      "terrible",
+      "discriminatory",
+      "not inclusive",
+      "ghosted",
+      "invasive"
+    ],
+    "pain_points": {
+      "bias": [
+        "bias",
+        "biased",
+        "discriminatory",
+        "not inclusive"
+      ],
+      "speed": [
+        "slow process",
+        "slow"
+      ],
+      "recruiter_experience": [
+        "no feedback",
+        "ghosted"
+      ],
+      "candidate_experience": [
+        "terrible experience"
+      ],
+      "privacy": [
+        "recording without consent",
+        "invasive",
+        "privacy violation"
+      ]
+    },
+    "signal_score": 74,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.458000+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: bias, speed, recruiter_experience, candidate_experience, privacy"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://reddit.com/r/cscareerquestions/sample_post_2",
+    "source": "forum_post",
+    "subreddit": "cscareerquestions",
+    "title": "HireVue is dehumanizing and has serious bias problems",
+    "matched_keywords": [
+      "bias",
+      "anxiety inducing",
+      "favors certain",
+      "awful",
+      "no feedback",
+      "biased",
+      "stressful",
+      "terrible experience",
+      "dehumanizing",
+      "terrible",
+      "not inclusive",
+      "ghosted"
+    ],
+    "pain_points": {
+      "bias": [
+        "bias",
+        "biased",
+        "favors certain",
+        "not inclusive"
+      ],
+      "recruiter_experience": [
+        "no feedback",
+        "ghosted"
+      ],
+      "candidate_experience": [
+        "terrible experience",
+        "awful",
+        "dehumanizing",
+        "stressful",
+        "anxiety inducing"
+      ]
+    },
+    "signal_score": 72,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.457483+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: bias, recruiter_experience, candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://hn.algolia.com/search?q=HackerRank+expensive",
+    "source": "search_snippet",
+    "subreddit": "",
+    "title": "HackerRank expensive problems complaints â€” search results",
+    "matched_keywords": [
+      "bottleneck",
+      "high cost",
+      "expensive",
+      "bug",
+      "buggy",
+      "slow process",
+      "slow",
+      "overpriced",
+      "poor",
+      "recruiter bottleneck"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive",
+        "overpriced",
+        "high cost"
+      ],
+      "speed": [
+        "slow process",
+        "slow",
+        "bottleneck"
+      ],
+      "recruiter_experience": [
+        "recruiter bottleneck"
+      ],
+      "technical_issues": [
+        "bug",
+        "buggy"
+      ]
+    },
+    "signal_score": 71,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.458986+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost, speed, recruiter_experience, technical_issues"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/vybllu/what_are_the_realistic_alternatives_to_coding/",
+    "source": "reddit",
+    "subreddit": "ExperiencedDevs",
+    "title": "What are the realistic alternatives to coding interviews or take homes for Senior+ Engineers when you get hundreds of applicants for each open role and have a 2-3 month timeline to hire someone?",
+    "matched_keywords": [
+      "bias",
+      "frustrating",
+      "bad",
+      "time consuming"
+    ],
+    "pain_points": {
+      "bias": [
+        "bias"
+      ],
+      "speed": [
+        "time consuming"
+      ],
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 70,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.094455+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: bias, speed, candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.trustpilot.com/review/www.hackerrank.com",
+    "source": "public_review",
+    "subreddit": "",
+    "title": "Trustpilot review: HackerRank",
+    "matched_keywords": [
+      "not worth",
+      "awful",
+      "expensive",
+      "bug",
+      "buggy",
+      "terrible",
+      "not recommend",
+      "cancelled"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive",
+        "not worth"
+      ],
+      "technical_issues": [
+        "bug",
+        "buggy"
+      ],
+      "candidate_experience": [
+        "awful"
+      ]
+    },
+    "signal_score": 68,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.458000+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost, technical_issues, candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://blog.example-company.com/switching-from-hackerrank",
+    "source": "forum_post",
+    "subreddit": "",
+    "title": "Switched away from HackerRank due to poor candidate experience",
+    "matched_keywords": [
+      "switched away",
+      "frustrating",
+      "costly",
+      "technical issue",
+      "poor ux",
+      "poor",
+      "cancelled"
+    ],
+    "pain_points": {
+      "cost": [
+        "costly"
+      ],
+      "technical_issues": [
+        "technical issue",
+        "poor ux"
+      ],
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 68,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.458986+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost, technical_issues, candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1lnyluq/5000_applications_100s_of_tools_resume_tailoring/",
+    "source": "public_review",
+    "subreddit": "recruitinghell",
+    "title": "5000+ applications, 100s of tools, resume tailoring, referrals, and STILL nothing. This isn’t hiring — this is hell.",
+    "matched_keywords": [
+      "dehumanizing",
+      "ghosted",
+      "broken"
+    ],
+    "pain_points": {
+      "recruiter_experience": [
+        "ghosted"
+      ],
+      "technical_issues": [
+        "broken"
+      ],
+      "candidate_experience": [
+        "dehumanizing"
+      ]
+    },
+    "signal_score": 67,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.391654+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: recruiter_experience, technical_issues, candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank",
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/7e9z1s/how_do_i_get_better_at_hackerrank_exams/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "How do I get better at Hackerrank exams.",
+    "matched_keywords": [
+      "frustrating"
+    ],
+    "pain_points": {
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 61,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.023024+00:00",
+    "reason": "Negative feedback detected about hackerrank, codility — issues: candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/hi3clr/companies_that_give_takehome_tests_review_your/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "Companies that give take-home tests: review your hiring funnel",
+    "matched_keywords": [
+      "bias",
+      "not worth",
+      "tracking"
+    ],
+    "pain_points": {
+      "cost": [
+        "not worth"
+      ],
+      "bias": [
+        "bias"
+      ],
+      "privacy": [
+        "tracking"
+      ]
+    },
+    "signal_score": 59,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.047699+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost, bias, privacy"
+  },
+  {
+    "company": "codility",
+    "all_competitors_mentioned": [
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://reddit.com/r/ExperiencedDevs/sample_post_3",
+    "source": "forum_post",
+    "subreddit": "ExperiencedDevs",
+    "title": "Codility tests are broken and outdated",
+    "matched_keywords": [
+      "waste",
+      "bug",
+      "keeps crashing",
+      "broken",
+      "waste of time"
+    ],
+    "pain_points": {
+      "technical_issues": [
+        "bug",
+        "broken",
+        "keeps crashing"
+      ],
+      "candidate_experience": [
+        "waste of time"
+      ]
+    },
+    "signal_score": 58,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.458000+00:00",
+    "reason": "Negative feedback detected about codility — issues: technical_issues, candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank",
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/pwucqe/didnt_get_a_return_offer_and_struggling_with/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "Didn't get a return offer and struggling with coding tests",
+    "matched_keywords": [
+      "hate",
+      "slow"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow"
+      ]
+    },
+    "signal_score": 57,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.016501+00:00",
+    "reason": "Negative feedback detected about hackerrank, codility — issues: speed"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/interviews/comments/1q73778/were_considering_advising_users_to_autowithdraw/",
+    "source": "reddit",
+    "subreddit": "interviews",
+    "title": "We’re considering advising users to auto-withdraw from \"One-Way Video Interviews.\"",
+    "matched_keywords": [
+      "dehumanizing",
+      "ghosting"
+    ],
+    "pain_points": {
+      "recruiter_experience": [
+        "ghosting"
+      ],
+      "candidate_experience": [
+        "dehumanizing"
+      ]
+    },
+    "signal_score": 53,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:39.996485+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: recruiter_experience, candidate_experience"
+  },
+  {
+    "company": "codility",
+    "all_competitors_mentioned": [
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/ky5fkc/uk_based_11_months_after_leaving_my_hardware_role/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "UK based - 11 Months after leaving my hardware role, finally got a job offer for a Data Science position!",
+    "matched_keywords": [
+      "expensive",
+      "frustrating",
+      "poor"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive"
+      ],
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 53,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.023024+00:00",
+    "reason": "Negative feedback detected about codility — issues: cost, candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank",
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1s27j38/what_tools_are_actually_worth_using_for_tech/",
+    "source": "public_review",
+    "subreddit": "recruitinghell",
+    "title": "What tools are actually worth using for tech hiring?",
+    "matched_keywords": [
+      "tracking"
+    ],
+    "pain_points": {
+      "privacy": [
+        "tracking"
+      ]
+    },
+    "signal_score": 53,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.439897+00:00",
+    "reason": "Negative feedback detected about hackerrank, codility — issues: privacy"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/jobs/comments/15wk0gy/finally_got_a_job_after_7_months_of_searching/",
+    "source": "reddit",
+    "subreddit": "jobs",
+    "title": "Finally got a job after 7 months of searching!",
+    "matched_keywords": [
+      "expensive",
+      "no response"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive"
+      ],
+      "recruiter_experience": [
+        "no response"
+      ]
+    },
+    "signal_score": 52,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.061324+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost, recruiter_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank",
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://news.ycombinator.com/item?id=16574299",
+    "source": "rss",
+    "subreddit": "",
+    "title": "Screening Site for Programmers – Hackerrank, Codility, QuodeIt",
+    "matched_keywords": [
+      "expensive"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive"
+      ]
+    },
+    "signal_score": 52,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.289837+00:00",
+    "reason": "Negative feedback detected about hackerrank, codility — issues: cost"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/pmuegk/im_terrible_at_programming_and_also_hate_coding/",
+    "source": "public_review",
+    "subreddit": "ExperiencedDevs",
+    "title": "I'm terrible at programming and also hate coding and software engineering... what are good exit strategies and realistic alternative careers to explore?",
+    "matched_keywords": [
+      "bad",
+      "avoid",
+      "bug",
+      "hate",
+      "terrible"
+    ],
+    "pain_points": {
+      "technical_issues": [
+        "bug"
+      ]
+    },
+    "signal_score": 51,
+    "signal_strength": "medium",
+    "detected_at": "2026-04-22T14:24:40.393662+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: technical_issues"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1oiowyz/what_is_going_on_with_job_applications_these_days/",
+    "source": "reddit",
+    "subreddit": "recruitinghell",
+    "title": "What is going on with job applications these days, did a hirevue interview almost a month ago and still haven’t received updates on my application",
+    "matched_keywords": [
+      "frustrating",
+      "slow"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow"
+      ],
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 49,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.128340+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: speed, candidate_experience"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://api.duckduckgo.com/?q=HireVue+bias+unfair",
+    "source": "search_snippet",
+    "subreddit": "",
+    "title": "HireVue bias unfair â€” DuckDuckGo results",
+    "matched_keywords": [
+      "bias",
+      "avoid",
+      "privacy concern",
+      "recording without consent",
+      "discriminatory",
+      "not inclusive",
+      "unfair"
+    ],
+    "pain_points": {
+      "bias": [
+        "bias",
+        "unfair",
+        "discriminatory",
+        "not inclusive"
+      ],
+      "privacy": [
+        "privacy concern",
+        "recording without consent"
+      ]
+    },
+    "signal_score": 47,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.458986+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: bias, privacy"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1opmhob/technical_issue_fucked_up_my_hirevue_interview/",
+    "source": "reddit",
+    "subreddit": "recruitinghell",
+    "title": "technical issue fucked up my HireVue interview",
+    "matched_keywords": [
+      "technical issue",
+      "unfair"
+    ],
+    "pain_points": {
+      "bias": [
+        "unfair"
+      ],
+      "technical_issues": [
+        "technical issue"
+      ]
+    },
+    "signal_score": 46,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.128340+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: bias, technical_issues"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/14a72c1/youre_not_imagining_itjob_hunting_is_getting_worse/",
+    "source": "reddit",
+    "subreddit": "recruitinghell",
+    "title": "You’re Not Imagining It—Job Hunting is Getting Worse",
+    "matched_keywords": [
+      "slow",
+      "scam"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow"
+      ]
+    },
+    "signal_score": 45,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.131350+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: speed"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/jobs/comments/1opa8u8/did_i_fail_my_hirevue_due_to_a_technical_issue/",
+    "source": "reddit",
+    "subreddit": "jobs",
+    "title": "Did I fail my HireVue due to a technical issue?",
+    "matched_keywords": [
+      "technical issue",
+      "unfair"
+    ],
+    "pain_points": {
+      "bias": [
+        "unfair"
+      ],
+      "technical_issues": [
+        "technical issue"
+      ]
+    },
+    "signal_score": 44,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.134348+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: bias, technical_issues"
+  },
+  {
+    "company": "codility",
+    "all_competitors_mentioned": [
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/195j5ir/35_month_job_search_for_backend_developer_in/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "3.5 month job search for backend developer in Berlin",
+    "matched_keywords": [
+      "bad",
+      "slow",
+      "useless"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow"
+      ]
+    },
+    "signal_score": 43,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.164724+00:00",
+    "reason": "Negative feedback detected about codility — issues: speed"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/rhrycp/should_i_feel_bad_about_wanting_to_leave_a/",
+    "source": "reddit",
+    "subreddit": "ExperiencedDevs",
+    "title": "Should I feel bad about wanting to leave a company after 6 weeks?",
+    "matched_keywords": [
+      "bias",
+      "terrible",
+      "bad"
+    ],
+    "pain_points": {
+      "bias": [
+        "bias"
+      ]
+    },
+    "signal_score": 42,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.096464+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: bias"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/os1mpe/ca_pay_and_career_trajectory_questions/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "CA pay and career trajectory questions",
+    "matched_keywords": [
+      "bad",
+      "hate",
+      "slow",
+      "poor"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow"
+      ]
+    },
+    "signal_score": 41,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.040133+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: speed"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://news.ycombinator.com/item?id=35292512",
+    "source": "rss",
+    "subreddit": "",
+    "title": "Ask HN: Can somebody explain HackerRank naming conventions to me?",
+    "matched_keywords": [
+      "bad",
+      "frustrating",
+      "poor"
+    ],
+    "pain_points": {
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 41,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.283023+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1nof7sp/unpopular_opinion_pursuing_my_dream_career_is_not/",
+    "source": "public_review",
+    "subreddit": "recruitinghell",
+    "title": "Unpopular opinion: Pursuing my 'dream' career is not worth my sanity",
+    "matched_keywords": [
+      "bad",
+      "not worth"
+    ],
+    "pain_points": {
+      "cost": [
+        "not worth"
+      ]
+    },
+    "signal_score": 40,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.389644+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1bna0sl/do_all_tech_companies_require_ridiculous_takehome/",
+    "source": "public_review",
+    "subreddit": "recruitinghell",
+    "title": "Do all tech companies require ridiculous take-home exercises now?",
+    "matched_keywords": [
+      "no feedback"
+    ],
+    "pain_points": {
+      "recruiter_experience": [
+        "no feedback"
+      ]
+    },
+    "signal_score": 39,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.391654+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: recruiter_experience"
+  },
+  {
+    "company": "codility",
+    "all_competitors_mentioned": [
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/64teng/i_didnt_do_as_well_as_i_could_have_on_codility/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "I didn't do as well as I could have on codility test.",
+    "matched_keywords": [
+      "worst",
+      "frustrating"
+    ],
+    "pain_points": {
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 38,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.024539+00:00",
+    "reason": "Negative feedback detected about codility — issues: candidate_experience"
+  },
+  {
+    "company": "codility",
+    "all_competitors_mentioned": [
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/mdlc55/cant_seem_to_get_my_head_around_codility/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "Can't seem to get my head around Codility questions after trying for a while, please help",
+    "matched_keywords": [
+      "frustrating"
+    ],
+    "pain_points": {
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 36,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.016501+00:00",
+    "reason": "Negative feedback detected about codility — issues: candidate_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/interviews/comments/1o8z5uu/is_ultracode_still_undetectable/",
+    "source": "reddit",
+    "subreddit": "interviews",
+    "title": "Is Ultracode still undetectable?",
+    "matched_keywords": [
+      "expensive"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive"
+      ]
+    },
+    "signal_score": 36,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.104533+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/12rctxk/why_arent_we_all_outsourced_from_usa/",
+    "source": "reddit",
+    "subreddit": "ExperiencedDevs",
+    "title": "Why aren't we all outsourced from USA?",
+    "matched_keywords": [
+      "expensive",
+      "bad"
+    ],
+    "pain_points": {
+      "cost": [
+        "expensive"
+      ]
+    },
+    "signal_score": 35,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.092440+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1atnr6l/uspto_using_hirevue/",
+    "source": "reddit",
+    "subreddit": "recruitinghell",
+    "title": "USPTO Using HireVue",
+    "matched_keywords": [
+      "discriminatory",
+      "unfair"
+    ],
+    "pain_points": {
+      "bias": [
+        "unfair",
+        "discriminatory"
+      ]
+    },
+    "signal_score": 35,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.130350+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: bias"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://segfaulte.mataroa.blog/blog/hackerrank-was-broken-but-now-its-actually-harmful/",
+    "source": "rss",
+    "subreddit": "",
+    "title": "Hackerrank was broken – but now it's harmful",
+    "matched_keywords": [
+      "broken"
+    ],
+    "pain_points": {
+      "technical_issues": [
+        "broken"
+      ]
+    },
+    "signal_score": 35,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.282011+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: technical_issues"
+  },
+  {
+    "company": "codility",
+    "all_competitors_mentioned": [
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://news.ycombinator.com/item?id=10237164",
+    "source": "rss",
+    "subreddit": "",
+    "title": "Ask HN: I've applied at Toptal and failed the Codility tests",
+    "matched_keywords": [
+      "frustrating"
+    ],
+    "pain_points": {
+      "candidate_experience": [
+        "frustrating"
+      ]
+    },
+    "signal_score": 35,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.292374+00:00",
+    "reason": "Negative feedback detected about codility — issues: candidate_experience"
+  },
+  {
+    "company": "workday",
+    "all_competitors_mentioned": [
+      "workday"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1srs5oy/1587_job_applications_and_i_wish_id_learned_more/",
+    "source": "public_review",
+    "subreddit": "recruitinghell",
+    "title": "1587 job applications and I wish I'd learned more",
+    "matched_keywords": [
+      "waste",
+      "ghosted"
+    ],
+    "pain_points": {
+      "recruiter_experience": [
+        "ghosted"
+      ]
+    },
+    "signal_score": 35,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.334461+00:00",
+    "reason": "Negative feedback detected about workday — issues: recruiter_experience"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/1m8s1z5/how_do_you_determine_someone_is_a_senior_engineer/",
+    "source": "public_review",
+    "subreddit": "cscareerquestions",
+    "title": "How do you determine someone is a senior engineer?",
+    "matched_keywords": [
+      "bad",
+      "not worth"
+    ],
+    "pain_points": {
+      "cost": [
+        "not worth"
+      ]
+    },
+    "signal_score": 35,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.377758+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1m8sxqx/how_do_you_determine_someone_is_a_senior_engineer/",
+    "source": "public_review",
+    "subreddit": "ExperiencedDevs",
+    "title": "How do you determine someone is a senior engineer? + recruiting",
+    "matched_keywords": [
+      "bad",
+      "not worth"
+    ],
+    "pain_points": {
+      "cost": [
+        "not worth"
+      ]
+    },
+    "signal_score": 35,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.392655+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: cost"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/interviews/comments/1o0cq5f/is_it_just_a_nice_way_to_say_youre_not_moving_to/",
+    "source": "reddit",
+    "subreddit": "interviews",
+    "title": "Is it just a nice way to say you’re not moving to the next stage?",
+    "matched_keywords": [
+      "error"
+    ],
+    "pain_points": {
+      "technical_issues": [
+        "error"
+      ]
+    },
+    "signal_score": 34,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:39.999966+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: technical_issues"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1rumxsx/hirevue_issue/",
+    "source": "reddit",
+    "subreddit": "recruitinghell",
+    "title": "Hirevue ISSUE!",
+    "matched_keywords": [
+      "slow"
+    ],
+    "pain_points": {
+      "speed": [
+        "slow"
+      ]
+    },
+    "signal_score": 33,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.125823+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: speed"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/cscareerquestions/comments/1j7ce2h/which_of_the_two_major_coding_platforms_is_better/",
+    "source": "reddit",
+    "subreddit": "cscareerquestions",
+    "title": "Which of the two major coding platforms is better and can the profile there supplement your portfolio.",
+    "matched_keywords": [
+      "bias",
+      "biased"
+    ],
+    "pain_points": {
+      "bias": [
+        "bias",
+        "biased"
+      ]
+    },
+    "signal_score": 32,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.028061+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: bias"
+  },
+  {
+    "company": "workday",
+    "all_competitors_mentioned": [
+      "workday"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/jobs/comments/1mx6va8/here_comes_ai_taking_over_recruiters_and/",
+    "source": "reddit",
+    "subreddit": "jobs",
+    "title": "Here comes AI taking over Recruiters and time-to-hire",
+    "matched_keywords": [
+      "bottleneck"
+    ],
+    "pain_points": {
+      "speed": [
+        "bottleneck"
+      ]
+    },
+    "signal_score": 32,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.179573+00:00",
+    "reason": "Negative feedback detected about workday — issues: speed"
+  },
+  {
+    "company": "codility",
+    "all_competitors_mentioned": [
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.reddit.com/r/recruitinghell/comments/1slboob/almost_made_it_sezzle_ai_engineer_interview_ended/",
+    "source": "reddit",
+    "subreddit": "recruitinghell",
+    "title": "Almost made it? Sezzle AI Engineer interview — ended with ‘on hold’, need honest feedback",
+    "matched_keywords": [
+      "bug"
+    ],
+    "pain_points": {
+      "technical_issues": [
+        "bug"
+      ]
+    },
+    "signal_score": 32,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.207377+00:00",
+    "reason": "Negative feedback detected about codility — issues: technical_issues"
+  },
+  {
+    "company": "hackerrank",
+    "all_competitors_mentioned": [
+      "hackerrank"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://news.ycombinator.com/item?id=34876357",
+    "source": "rss",
+    "subreddit": "",
+    "title": "Ask HN: Does anyone use hackerrank to prepare for an interview?",
+    "matched_keywords": [
+      "error"
+    ],
+    "pain_points": {
+      "technical_issues": [
+        "error"
+      ]
+    },
+    "signal_score": 32,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.284547+00:00",
+    "reason": "Negative feedback detected about hackerrank — issues: technical_issues"
+  },
+  {
+    "company": "hirevue",
+    "all_competitors_mentioned": [
+      "hirevue"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.washingtonpost.com/technology/2019/11/06/prominent-rights-group-files-federal-complaint-against-ai-hiring-firm-hirevue-citing-unfair-deceptive-practices/",
+    "source": "rss",
+    "subreddit": "",
+    "title": "Rights group files federal complaint against AI-hiring firm HireVue",
+    "matched_keywords": [
+      "unfair"
+    ],
+    "pain_points": {
+      "bias": [
+        "unfair"
+      ]
+    },
+    "signal_score": 32,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.286562+00:00",
+    "reason": "Negative feedback detected about hirevue — issues: bias"
+  },
+  {
+    "company": "codility",
+    "all_competitors_mentioned": [
+      "codility"
+    ],
+    "signal_type": "competitor_grievance",
+    "source_url": "https://www.codility.com/resources/research/ebook-2019-gender-bias-report-0",
+    "source": "rss",
+    "subreddit": "",
+    "title": "Codility 2019 Gender Bias Report",
+    "matched_keywords": [
+      "bias"
+    ],
+    "pain_points": {
+      "bias": [
+        "bias"
+      ]
+    },
+    "signal_score": 32,
+    "signal_strength": "low",
+    "detected_at": "2026-04-22T14:24:40.288841+00:00",
+    "reason": "Negative feedback detected about codility — issues: bias"
+  }
+]
